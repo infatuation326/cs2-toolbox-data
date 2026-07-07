@@ -1,0 +1,13 @@
+{
+  "notices": [
+    {
+      "id": "v1.0.0-online-data",
+      "type": "success",
+      "title": "线上更新提示已接入",
+      "message": "后续赞助名单和更新消息会通过线上数据同步。",
+      "detail": "同一条提示只会展示一次，不会反复打扰。",
+      "popup": true,
+      "enabled": true
+    }
+  ]
+}
