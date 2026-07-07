@@ -16,8 +16,6 @@ https://raw.githubusercontent.com/Infatuation-Studio/cs2-toolbox-data/main/spons
 https://raw.githubusercontent.com/Infatuation-Studio/cs2-toolbox-data/main/notices.json
 ```
 
-如果 GitHub 账号或组织不是 `Infatuation-Studio`，需要把软件里的线上数据地址改成你的 Raw 根地址。
-
 ## 更新赞助名单
 
 只改 `sponsors.json`：
