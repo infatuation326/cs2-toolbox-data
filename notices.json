@@ -8,15 +8,6 @@
       "detail": "谢谢支持",
       "popup": true,
       "enabled": true
-    },
-    {
-      "id": "软件正在优化！",
-      "type": "success",
-      "title": "软件持续更新中",
-      "message": "欢迎你们的使用，有任何问题或者灵感可以联系我！",
-      "detail": "谢谢支持",
-      "popup": true,
-      "enabled": true
     }
   ]
 }
